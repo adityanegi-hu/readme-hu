@@ -23,7 +23,7 @@ I am a passionate developer with a love for creating innovative solutions and co
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-negi-38b43830a/)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/Adityan12935364)) [![Personal Website](https://img.shields.io/badge/Personal_Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)] <!--(https://yourwebsite.com)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-negi-38b43830a/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Adityan12935364) <!--[![Personal Website](https://img.shields.io/badge/Personal_Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)] --><!--(https://yourwebsite.com)-->
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
